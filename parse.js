@@ -17,7 +17,7 @@ try {
     password: 'password',
   };
 
-  vault.items.forEach(function(item) {
+  vault.items.forEach(item => {
     const rowData = {
       url: '',
       username: '',
@@ -28,9 +28,9 @@ try {
       fav: item.favourite,
     };
 
-    Object.keys(fieldMapping).forEach(function(type) {
+    Object.keys(fieldMapping).forEach(type => {
       const key = fieldMapping[type];
-      item.fields.forEach(function(field) {
+      item.fields.forEach(field => {
         if (field.type === type) {
           if (field.value && !rowData[key]) {
             rowData[key] = '"' + field.value + '"';
@@ -40,9 +40,7 @@ try {
     });
     csvOutput.push(
       Object.keys(rowData)
-        .map(function(key) {
-          return rowData[key];
-        })
+        .map(key => rowData[key])
         .join(','),
     );
   });
