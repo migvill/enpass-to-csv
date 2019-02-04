@@ -1,0 +1,226 @@
+{
+    "items": [
+        {
+            "auto_submit": 1,
+            "category": "login",
+            "favorite": 0,
+            "fields": [
+                {
+                    "label": "Username",
+                    "order": 1,
+                    "sensitive": 0,
+                    "type": "username",
+                    "uid": 10,
+                    "updated_at": 1549289556,
+                    "value": "",
+                    "value_updated_at": 1549289556
+                },
+                {
+                    "label": "E-mail",
+                    "order": 2,
+                    "sensitive": 0,
+                    "type": "email",
+                    "uid": 12,
+                    "updated_at": 1549289556,
+                    "value": "example@gmail.com",
+                    "value_updated_at": 1549289556
+                },
+                {
+                    "label": "Password",
+                    "order": 3,
+                    "sensitive": 1,
+                    "type": "password",
+                    "uid": 11,
+                    "updated_at": 1549289556,
+                    "value": "HnrysLXvVHCuN7Mi59M2",
+                    "value_updated_at": 1549289556
+                },
+                {
+                    "label": "Website",
+                    "order": 4,
+                    "sensitive": 0,
+                    "type": "url",
+                    "uid": 13,
+                    "updated_at": 1549289556,
+                    "value": "https://appleid.apple.com/",
+                    "value_updated_at": 1549289556
+                },
+                {
+                    "label": "ADDITIONAL DETAILS",
+                    "order": 5,
+                    "sensitive": 0,
+                    "type": "section",
+                    "uid": 101,
+                    "updated_at": 1549289556,
+                    "value": "",
+                    "value_updated_at": 1549289556
+                },
+                {
+                    "label": "Phone number",
+                    "order": 6,
+                    "sensitive": 0,
+                    "type": "phone",
+                    "uid": 14,
+                    "updated_at": 1549289556,
+                    "value": "",
+                    "value_updated_at": 1549289556
+                },
+                {
+                    "label": "TOTP",
+                    "order": 7,
+                    "sensitive": 0,
+                    "type": "totp",
+                    "uid": 102,
+                    "updated_at": 1549289556,
+                    "value": "",
+                    "value_updated_at": 1549289556
+                },
+                {
+                    "label": "Security question",
+                    "order": 8,
+                    "sensitive": 0,
+                    "type": "text",
+                    "uid": 15,
+                    "updated_at": 1549289556,
+                    "value": "",
+                    "value_updated_at": 1549289556
+                },
+                {
+                    "label": "Security answer",
+                    "order": 9,
+                    "sensitive": 1,
+                    "type": "text",
+                    "uid": 16,
+                    "updated_at": 1549289556,
+                    "value": "",
+                    "value_updated_at": 1549289556
+                }
+            ],
+            "icon": {
+                "fav": "apple.com",
+                "image": {
+                    "file": "web/apple.com"
+                },
+                "type": 1,
+                "uuid": ""
+            },
+            "note": "",
+            "subtitle": "example@gmail.com",
+            "template_type": "login.default",
+            "title": "Apple ID",
+            "updated_at": 1549289556,
+            "uuid": "437a845e-2645-4a92-8851-22fa8bf52dfb"
+        },
+        {
+            "auto_submit": 1,
+            "category": "login",
+            "favorite": 0,
+            "fields": [
+                {
+                    "label": "Username",
+                    "order": 1,
+                    "sensitive": 0,
+                    "type": "username",
+                    "uid": 10,
+                    "updated_at": 1549289494,
+                    "value": "",
+                    "value_updated_at": 1549289494
+                },
+                {
+                    "label": "E-mail",
+                    "order": 2,
+                    "sensitive": 0,
+                    "type": "email",
+                    "uid": 12,
+                    "updated_at": 1549289494,
+                    "value": "example@gmail.com",
+                    "value_updated_at": 1549289494
+                },
+                {
+                    "label": "Password",
+                    "order": 3,
+                    "sensitive": 1,
+                    "type": "password",
+                    "uid": 11,
+                    "updated_at": 1549289494,
+                    "value": "AUM5geQxH6hoRXzNRyDx",
+                    "value_updated_at": 1549289494
+                },
+                {
+                    "label": "Website",
+                    "order": 4,
+                    "sensitive": 0,
+                    "type": "url",
+                    "uid": 13,
+                    "updated_at": 1549289494,
+                    "value": "https://accounts.google.com/",
+                    "value_updated_at": 1549289494
+                },
+                {
+                    "label": "ADDITIONAL DETAILS",
+                    "order": 5,
+                    "sensitive": 0,
+                    "type": "section",
+                    "uid": 101,
+                    "updated_at": 1549289494,
+                    "value": "",
+                    "value_updated_at": 1549289494
+                },
+                {
+                    "label": "Phone number",
+                    "order": 6,
+                    "sensitive": 0,
+                    "type": "phone",
+                    "uid": 14,
+                    "updated_at": 1549289494,
+                    "value": "",
+                    "value_updated_at": 1549289494
+                },
+                {
+                    "label": "TOTP",
+                    "order": 7,
+                    "sensitive": 0,
+                    "type": "totp",
+                    "uid": 102,
+                    "updated_at": 1549289494,
+                    "value": "",
+                    "value_updated_at": 1549289494
+                },
+                {
+                    "label": "Security question",
+                    "order": 8,
+                    "sensitive": 0,
+                    "type": "text",
+                    "uid": 15,
+                    "updated_at": 1549289494,
+                    "value": "",
+                    "value_updated_at": 1549289494
+                },
+                {
+                    "label": "Security answer",
+                    "order": 9,
+                    "sensitive": 1,
+                    "type": "text",
+                    "uid": 16,
+                    "updated_at": 1549289494,
+                    "value": "",
+                    "value_updated_at": 1549289494
+                }
+            ],
+            "icon": {
+                "fav": "google.com",
+                "image": {
+                    "file": "web/google.com"
+                },
+                "type": 1,
+                "uuid": ""
+            },
+            "note": "",
+            "subtitle": "example@gmail.com",
+            "template_type": "login.default",
+            "title": "Google",
+            "updated_at": 1549289494,
+            "uuid": "c8e9d7bf-d7f2-4e19-abe7-f28c4006a5c8"
+        }
+    ]
+}
