@@ -1,0 +1,22 @@
+{
+  "name": "enpass-export-csv",
+  "version": "0.1.0",
+  "description": "Convert enpass json export to csv",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "enpass-to-csv"
+  },
+  "keywords": [
+    "enpass",
+    "csv",
+    "export",
+    "json",
+    "vault"
+  ],
+  "author": "Miguel V",
+  "license": "MIT"
+}
